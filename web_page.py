@@ -16,6 +16,7 @@ mypage = Page()
 
 login_button = Button(
     size = 5,
+    shape = "square",
     color = "purple",
     link = login_link,
 )
