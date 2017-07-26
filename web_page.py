@@ -21,7 +21,6 @@ login_button = Button(
 )
 
 logout_button = Button(
-    size = 7,
     color = "red",
     link = logout_link,
 )
